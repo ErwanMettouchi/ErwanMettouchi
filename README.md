@@ -1,16 +1,25 @@
-## Hi there 👋
+### Salut, moi c'est Erwan Mettouchi
 
-<!--
-**ErwanMettouchi/ErwanMettouchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Je viens de terminer une formation de **développeur web fullstack** (React, Node Js, Javascript/TypeScript, HTML/CSS, SQL). Cette formation a eu lieu en distanciel à l'école [O'clock](https://oclock.io/).
+🚀 Je suis en ce moment en train de créer mon portfolio et de faire quelques projets à côté afin de pouvoir le remplir.
+📌 Je suis à la recherche d’un **poste de développeur web junior** en fullstack ou front-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack actuelle
+
+- ⚛️ React / En apprentissage de Next.js
+- 🧠 TypeScript / JavaScript ES6+
+- 🌐 Node.js / Express
+- 🗄️ SQL/Sequelize
+
+---
+
+### 🎯 Objectif actuel
+
+Trouver une équipe dans laquelle continuer à progresser, contribuer à des projets concrets, et apprendre en continu 💡  
+N'hésitez pas à me contacter !
+
+📫 **Email** : erwanmettouchi@gmail.com 
+🔗 [LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/erwan-mettouchi/))  
