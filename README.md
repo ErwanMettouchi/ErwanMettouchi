@@ -22,4 +22,4 @@ Trouver une équipe dans laquelle continuer à progresser, contribuer à des pro
 N'hésitez pas à me contacter !
 
 📫 **Email** : erwanmettouchi@gmail.com 
-🔗 [LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/erwan-mettouchi/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/erwan-mettouchi/)  
