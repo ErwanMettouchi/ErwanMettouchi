@@ -1,9 +1,9 @@
 ### Salut, moi c'est Erwan Mettouchi
 
 
-🎓 Je viens de terminer une formation de **développeur web fullstack** (React, Node Js, Javascript/TypeScript, HTML/CSS, SQL). Cette formation a eu lieu en distanciel à l'école [O'clock](https://oclock.io/).
-🚀 Je suis en ce moment en train de créer mon portfolio et de faire quelques projets à côté afin de pouvoir le remplir.
-📌 Je suis à la recherche d’un **poste de développeur web junior** en fullstack ou front-end
+- 🎓 Je viens de terminer une formation de **développeur web fullstack** (React, Node Js, Javascript/TypeScript, HTML/CSS, SQL). Cette formation a eu lieu en distanciel à l'école [O'clock](https://oclock.io/).
+- 🚀 Je suis en ce moment en train de créer mon portfolio et de faire quelques projets à côté afin de pouvoir le remplir.
+- 📌 Je suis à la recherche d’un **poste de développeur web junior** en fullstack ou front-end
 
 ---
 
