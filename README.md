@@ -21,5 +21,5 @@
 Trouver une équipe dans laquelle continuer à progresser, contribuer à des projets concrets, et apprendre en continu 💡  
 N'hésitez pas à me contacter !
 
-📫 **Email** : erwanmettouchi@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/erwan-mettouchi/)  
+- 📫 **Email** : erwanmettouchi@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/erwan-mettouchi/)  
